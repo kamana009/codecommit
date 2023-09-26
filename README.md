@@ -1,2 +1,2 @@
 # codecommit
-welcome to devops claa 
+welcome to devops class
